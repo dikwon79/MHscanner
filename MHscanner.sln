@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MHscanner", "MHscanner\MHscanner.csproj", "{35D309C4-3A6E-4225-A8B5-F01EAA8B3E9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Win32_API", "Win32_API\Win32_API.csproj", "{19FF3114-84E4-4690-84D1-DC50829B875D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35D309C4-3A6E-4225-A8B5-F01EAA8B3E9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35D309C4-3A6E-4225-A8B5-F01EAA8B3E9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35D309C4-3A6E-4225-A8B5-F01EAA8B3E9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35D309C4-3A6E-4225-A8B5-F01EAA8B3E9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19FF3114-84E4-4690-84D1-DC50829B875D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19FF3114-84E4-4690-84D1-DC50829B875D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19FF3114-84E4-4690-84D1-DC50829B875D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19FF3114-84E4-4690-84D1-DC50829B875D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C7A5C29-B52A-47BA-AAE5-C1415BD9AC7E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\KKH\Desktop\Win32_API\Win32_API\bin\Debug\Win32_API.dll
+C:\Users\KKH\Desktop\Win32_API\Win32_API\bin\Debug\Win32_API.pdb
+C:\Users\KKH\Desktop\Win32_API\Win32_API\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\KKH\Desktop\Win32_API\Win32_API\obj\Debug\Win32_API.dll
+C:\Users\KKH\Desktop\Win32_API\Win32_API\obj\Debug\Win32_API.pdb
+C:\Users\권동일\Desktop\Win32_API\Win32_API\bin\Debug\Win32_API.dll
+C:\Users\권동일\Desktop\Win32_API\Win32_API\bin\Debug\Win32_API.pdb
+C:\Users\권동일\Desktop\Win32_API\Win32_API\obj\Debug\Win32_API.csprojAssemblyReference.cache
+C:\Users\권동일\Desktop\Win32_API\Win32_API\obj\Debug\Win32_API.csproj.CoreCompileInputs.cache
+C:\Users\권동일\Desktop\Win32_API\Win32_API\obj\Debug\Win32_API.dll
+C:\Users\권동일\Desktop\Win32_API\Win32_API\obj\Debug\Win32_API.pdb
